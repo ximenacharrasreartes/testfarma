@@ -164,6 +164,8 @@
       
     ]
   },
+
+  //bloque condicional farma
   "flex-layout.col#right-col-availability": {
     "props": {
       "preventVerticalStretch": true,
@@ -175,12 +177,18 @@
       "product-identifier.product",
       "sku-selector",
       "flex-layout.row#availability",
-      "product-spot-price",
+     
+      "product-spot-price-savings",
+      "rich-text",
       "flex-layout.row#buy-button",
       "shipping-simulator",
       "share#default"
     ]
   },
+"product-spot-price":{
+
+},
+
   "flex-layout.row#availability": {
     "props": {
       "blockClass": "message-availability"
