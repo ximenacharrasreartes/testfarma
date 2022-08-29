@@ -5,8 +5,7 @@
     },
     "children": [
       "menu-item#category-apparel",
-      "menu-item#category-home",
-      "menu-item#more"
+      "menu-item#category-home"
     ]
   },
   "menu-item#category-apparel": {
@@ -20,7 +19,7 @@
         "href": "/apparel---accessories/",
         "noFollow": false,
         "tagTitle": "Apparel & Accessories",
-        "text": "Apparel & Accessories"
+        "text": "Farmacia"
       }
     },
     "blocks": [
@@ -56,7 +55,7 @@
         "href": "/apparel---accessories/clothing/",
         "noFollow": false,
         "tagTitle": "Clothing",
-        "text": "Clothing"
+        "text": "Test"
       }
     }
   },
@@ -71,7 +70,7 @@
         "href": "/apparel---accessories/accessories/",
         "noFollow": false,
         "tagTitle": "Accessories",
-        "text": "Accessories"
+        "text": "Test"
       }
     }
   },
@@ -86,7 +85,7 @@
         "href": "/apparel---accessories/eyeglasses/",
         "noFollow": false,
         "tagTitle": "Eyeglasses",
-        "text": "Eyeglasses"
+        "text": "Test"
       }
     }
   },
@@ -101,7 +100,7 @@
         "href": "/home---decor/",
         "noFollow": false,
         "tagTitle": "Home & Decor",
-        "text": "Home & Decor"
+        "text": "Perfumería"
       }
     }
   },
